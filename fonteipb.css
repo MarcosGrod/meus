@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Zapf Humanist';
+    src: url('https://ipb.org.br/content/Arquivos/Fonte_ZapfHumanistBT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Zapf Humanist', sans-serif;
+}
